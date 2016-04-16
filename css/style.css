@@ -1,0 +1,256 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+*/
+
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+
+}
+#primer{
+	width: 1000px;
+	border-bottom: 10px;
+}
+
+#titul{
+	width: 500px;
+}
+#boton{
+	margin: center;
+}
+
+/*ETIQUETAS*/
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+a{
+	text-decoration: none;
+	color:#DF3A01;
+}
+
+h1{
+font-family: 'Passion One', cursive;
+background-image: url(../img/perro.jpg);
+border-radius: 10px;
+margin-left: 10px;
+font-size: 60px;
+text-align: center; 
+}
+
+h2{
+font-family: 'Shadows Into Light', cursive;
+color: #663300	;
+margin-left: 10px;
+font-size: 30px;
+text-align: center; 
+}
+
+h3{
+font-family: 'Shadows Into Light', cursive;
+color: 	#8B4513;
+font-size: 30px;
+text-align: center; 
+}
+
+h4{
+font-family: 'Bree Serif', serif;
+color: 	#8B4513;
+font-size: 28px;
+text-align: center; 
+}
+h5{
+font-family: 'Shadows Into Light', cursive;
+color: 	#8B4513;
+font-size: 15px;
+text-align: center; 
+}
+h6{
+font-family: 'Shadows Into Light', cursive;
+color: 	#8B4513;
+font-size: 15px;
+text-align: center; 
+}
+#logo{
+	color:	#DF01A5;
+}
+
+#form li{
+	margin: auto;
+	width: 500px;
+	border-bottom: 50px;
+	
+}
+#elem li{
+	width: 300px;
+	margin: auto;
+	border-top: 10px;
+	padding: 8px;
+
+
+}
+.contact_form ul{
+	list-style: none;
+	width: 750px;
+	border-bottom: 10px
+	margin: auto;
+	width: 500px;
+	border-bottom: 50px;
+	
+
+}
+.contact_form li{
+	padding: 12px;
+	border-bottom: 5px solid;
+	position: relative;
+}
+.contact_form li :first-child, .contact_form li :last-child {
+	border-bottom: 1px ;
+
+}
+.contact_form label {
+	float: left;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 5px 8px;
+	width: 150px;
+
+
+}
+
+
+.contact_form input{
+height: 20px;
+padding: 5px 8px;
+width:150px;
+	
+}
+
+.contact_form textarea{
+	padding: 8px;
+	width: 470px;
+}
+button{
+	padding: 2px;
+	margin: 0 auto;
+	width: 80px;
+	border-bottom: 50px;
+
+	
+}
+
+
+header{
+	width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+}
+
+nav{
+width: 1000px;
+height: 50px;
+background-image: url(../img/fondo1.jpg);
+border-radius: 10px;
+
+}
+figcaption{
+font-family: 'Bree Serif', serif;
+color: #0080FF;
+font-size: 28px;
+}
+
+ul{
+margin: auto;
+padding-top: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background:			#A9A9A9;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white inset; 
+	text-decoration: none;
+
+}
+
+section{
+	width: 700px;
+	background-image: url(../img/fondo1.jpg);
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+aside{
+	width: 280px;
+	background-image: url(../img/fondo3.jpg);
+	height: 600px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 20px;
+	border-radius: 10px;
+	text-decoration: none;
+	
+}
+
+
+footer{
+width: 1000px;
+height: 70px;
+background-image: url(../img/fondo1.jpg);
+float: left;
+margin-top: 20px;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+
+p{
+
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+	color: #8B0000;
+}
+
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+
+
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
